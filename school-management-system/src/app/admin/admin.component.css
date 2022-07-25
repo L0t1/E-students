@@ -1,0 +1,4 @@
+btn.btn-primary{
+    display: flex;
+    justify-content: space-between;
+}
