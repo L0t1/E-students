@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { AdminComponent } from './admin/admin.component';
 import { NxenesiComponent } from './nxenesi/nxenesi.component';
 import { MesuesiComponent } from './mesuesi/mesuesi.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AdminComponent,
     NxenesiComponent,
-    MesuesiComponent
+    MesuesiComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
